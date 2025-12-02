@@ -1,0 +1,8 @@
+[fuzz.metrics]
+enabled = true
+
+
+[[fuzz.programs]]
+address = "2WXpY8havGjfRxme9LUxtjFHTh1EfU3ur4v6wiK4KdNC"
+program = "../target/deploy/solana_spl_swaps.so"
+ 
